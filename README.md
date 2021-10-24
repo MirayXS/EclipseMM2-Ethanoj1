@@ -1,27 +1,15 @@
 # EclipseMM2 (discontinued)
 
-Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/142823291/Murder-Mystery-2). The script has assassin compatiility for the gamemode inside of Murder Mystery 2. *This script is being discontinued in favor of Eclipse Hub in mid September 2021*
+Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/142823291/Murder-Mystery-2). The script has assassin compatiility for the gamemode inside of Murder Mystery 2. **This script has been discontinued in favor of Eclipse Hub in mid September 2021, use Eclipse Hub instead**
 
 ## Compatibility
 
-Eclipse is compatible with the following:
-* Synapse X ($20)
-* Sirhurt (prob)
-* Krnl
-* Coco Z
-* Fluxus Windows (partial)
-* LX63 (partial)
-* Paradella X (partial)
-
-Electron and Scriptware has been reported to work with the script, but are not officially supported.
+No longer officially compatible with any executor.
 
 ## Loadstring
 
-The loadstring will always hold the up to date version!
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
-```
-You can get the current version of the script [here](https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/CurrentVersion.txt).
+Eclipse MM2 is discontinued and should not be used unless necessary. **Use Eclipse Hub instead, loadstring in discord.**
+
 ## Discord
 
 You can request a Discord Invite from the Eclipse GUI. You can only request 1 per day. You can suggest features and report bugs in the Discord server.
