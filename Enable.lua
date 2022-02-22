@@ -3,7 +3,7 @@ if not _G.Discontinuation then
   local bind = Instance.new("BindableFunction")
   bind.OnInvoke = function(buttonText)
       if buttonText == "Join Discord" then
-          _G.join()
+          _G.Join()
       end
   end
   game.StarterGui:SetCore("SendNotification", {
