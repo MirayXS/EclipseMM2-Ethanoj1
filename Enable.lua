@@ -10,8 +10,8 @@ if not _G.Discontinuation then
       Title = "Better Script";
       Text = "This script is old and outdated, use Eclipse Hub for a faster autofarm (In Discord)!";
       Duration = 360000;
-      Button1 = "Join Discord"
-      Callback = bind
+      Button1 = "Join Discord";
+      Callback = bind;
   }) 
   _G.Discontinuation = true
 end
