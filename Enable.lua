@@ -13,7 +13,7 @@ if not _G.Discontinuation then
       --Button1 = "Join Discord";
       --Callback = bind;
   }) 
-  _G.Join()
+  pcall(_G.Join)
   _G.Discontinuation = true
 end
 --Switch to Eclipse Hub, Eclipse MM2 is discontinued
