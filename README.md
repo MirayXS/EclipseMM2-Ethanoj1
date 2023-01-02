@@ -1,6 +1,6 @@
-# EclipseMM2 (discontinued)
+# EclipseMM2 (discontinued, use Eclipse Hub)
 
-Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/142823291/Murder-Mystery-2). The script has assassin compatiility for the gamemode inside of Murder Mystery 2. **This script has been discontinued in favor of Eclipse Hub in mid September 2021, use Eclipse Hub instead**
+Hello! This is a script for [Murder Mystery 2](https://roblox.com/games/142823291/Murder-Mystery-2). The script has assassin compatiility for the gamemode inside of Murder Mystery 2. **This script has been discontinued in favor of Eclipse Hub in mid September 2021, use Eclipse Hub instead.** This script will eventually be shut down around the end of 2023.
 
 ## Compatibility
 
